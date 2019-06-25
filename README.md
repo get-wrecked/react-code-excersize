@@ -18,7 +18,7 @@ We would like to see your version of a video feed. Medal has a video feed, but d
   `npm install && npm run start`
 
 ### Submitting Work
-Feel free to clone this repo or download the two required files (medal-player.js and videos.json). When you have completed your work, email ken@medal.tv a zip file of your project (please do not include your `node_modules` folder).
+Feel free to clone this repo or download the two required parts (the Medal Video player zip file and videos.json). When you have completed your work, email ken@medal.tv a zip file of your project (please do not include your `node_modules` folder).
 
 #### Can I use tools like NextJS or Create React App?
 Yes absolutely, use any tool you would like as long as it allows you to follow the technology requirements.
