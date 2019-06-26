@@ -9,11 +9,10 @@ We would like to see your version of a video feed. Medal has a video feed, but d
 ### Requirements
 - List all video objects using our video player
 - A user should bee able to play the individual videos within the feed
-- A user should be able to view a single video within its own view (or page)
 
 ### Technology Requirements
 - Use ReactJS
-- Use our provided video player
+- Use our provided video player, reference the readme file within the zip file for additional information (hint: videoOpts is a required prop)
 - The app server must be able to be ran using this command:
   `npm install && npm run start`
 
