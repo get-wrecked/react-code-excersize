@@ -12,7 +12,7 @@ We would like to see your version of a video feed. Medal has a video feed, but d
 
 ### Technology Requirements
 - Use ReactJS
-- Use our provided video player, reference the readme file within the zip file for additional information (hint: videoOpts is a required prop)
+- Use our provided video player, reference the readme file within the zip file for additional information (hint: videoOpts is a required prop). You will not be able to install from Github like described in the  video player readme (it is a private repo), you must use the one included in the zip file.
 - The app server must be able to be ran using this command:
   `npm install && npm run start`
 
