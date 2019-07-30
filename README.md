@@ -20,7 +20,10 @@ We would like to see your version of a video feed. Medal has a video feed, but d
 
 **DO NOT UPLOAD YOUR SOLUTION TO A PUBLIC GITHUB REPO**
 
-Feel free to clone this repo or download the two required parts (the Medal Video player zip file and videos.json). When you have completed your work, email ken@medal.tv a zip file of your project (please do not include your `node_modules` folder).
+Feel free to clone this repo or download the two required parts (the Medal Video player zip file and videos.json). When you have completed your work, email ken@medal.tv a zip file of the project (or a link to a zip file if your email client doesn't allow you to send zip files, please do not include your `node_modules` folder).
 
 #### Can I use tools like NextJS or Create React App?
 Yes absolutely, use any tool you would like as long as it allows you to follow the technology requirements.
+
+#### How do I include the video player package?
+Please use the `file:` syntax in your package.json file. You can learn more here: https://docs.npmjs.com/files/package.json#local-paths
